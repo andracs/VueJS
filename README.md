@@ -24,7 +24,10 @@
 
 
 # Dagens program
-- 08:30 Evaluering af sprog app, code review
-- 09:30 Eksamensrepetition
-- 13:00 Vue.JS øvelser
+- Evaluering af sprog app, code review
+- UV evaluering
+- Eksamensrepetition
+-- Opret et API, som kan sende og modtage data til og fra en database
+-- Opret brugerstyring
+- Vue.JS øvelser
 - Hjemmeopgave: Vue.js
