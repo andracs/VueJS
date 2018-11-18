@@ -30,4 +30,11 @@
   - [x] Opret et API, som kan sende og modtage data til og fra en database
   - [x] Opret brugerstyring
 - Vue.JS øvelser
-- Hjemmeopgave: Vue.js
+- Hjemmeopgave:
+  - 3 x 2,4 timer eller tilsvarende på: 
+  - https://sabe.io/tutorials/building-note-taking-app-vue-js-firebase
+  - https://github.com/icebob/vue-express-mongo-boilerplate  
+  - https://vuejs.org/v2/cookbook/
+  - https://vuejs.org/v2/examples/
+  - https://medium.com/js-dojo/7-vue-js-backends-compared-74812da014f4
+  
