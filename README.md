@@ -27,7 +27,7 @@
 - Evaluering af sprog app, code review
 - UV evaluering
 - Eksamensrepetition
-  - [ ] Opret et API, som kan sende og modtage data til og fra en database
-  - [ ] Opret brugerstyring
+  - [x] Opret et API, som kan sende og modtage data til og fra en database
+  - [x] Opret brugerstyring
 - Vue.JS øvelser
 - Hjemmeopgave: Vue.js
