@@ -12,6 +12,8 @@
 - [Sådan kan du bruge Lite Server](https://blogs.msdn.microsoft.com/cdndevs/2016/01/24/visual-studio-code-and-local-web-server/) og Visual Studio Codes autosave funktion til en smooth workflow.
 
 ## Yderligere læringsmaterialer til Vue.js 
+- https://scrimba.com/g/glearnvue
+
 - [Vue.js in 60 minutes](https://www.youtube.com/watch?v=z6hQqgvGI4Y&t=3s)
 
 - [NativeScript og View](https://nativescript-vue.org/en/docs/introduction/)
@@ -23,7 +25,7 @@
 - [Develop Basic Web Apps with Vue.js (16 min)](https://egghead.io/courses/develop-basic-web-apps-with-vue-js)
 
 - [Vue.js tutorial på Tutorialspoint](https://www.tutorialspoint.com/vuejs/index.htm)
-  
+
 
 # Dagens program
 - Evaluering af sprog app, code review
