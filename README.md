@@ -9,10 +9,14 @@
 - [VueJS examples](https://vuejsexamples.com/)
 
 ## Smart workflow for Frontend
-- [Sådan kan du bruge Lite Server](https://blogs.msdn.microsoft.com/cdndevs/2016/01/24/visual-studio-code-and-local-web-server/) og Visual Studio Codes autosave funktion til en smooth workflow.
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+- [Alternativt: Lite Server](https://blogs.msdn.microsoft.com/cdndevs/2016/01/24/visual-studio-code-and-local-web-server/) og Visual Studio Codes autosave funktion til en smooth workflow.
+
+- [Bracket pair colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 
 ## Yderligere læringsmaterialer til Vue.js 
-- https://scrimba.com/g/glearnvue
+- [Fantastisk Scrimba](https://scrimba.com/g/glearnvue)
 
 - [Vue.js in 60 minutes](https://www.youtube.com/watch?v=z6hQqgvGI4Y&t=3s)
 
@@ -39,10 +43,10 @@
   - Nemmere bog i JavaScript
   - Måske flipped classroom
   - Store projektarbejde er godt, fremmende for læring
+- Vue.JS øvelser
 - Repetition
   - [x] Opret et API, som kan sende og modtage data til og fra en database
   - [x] Opret brugerstyring
-- Vue.JS øvelser
 - Hjemmeopgave:
   - 3 x 2,4 timer eller tilsvarende på: 
   - https://vuejs.org/v2/cookbook/
