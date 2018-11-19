@@ -55,3 +55,8 @@
   - Mongo med Vue.js - https://github.com/icebob/vue-express-mongo-boilerplate  
   - Vue.JS backend sammenligning - https://medium.com/js-dojo/7-vue-js-backends-compared-74812da014f4
 
+
+# Vi har lært
+- vue library
+- nemmere måde at vise html js
+- binding
