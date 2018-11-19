@@ -27,7 +27,16 @@
 
 # Dagens program
 - Evaluering af sprog app, code review
+  - Mongo VS Mongoose
+  - Mappestruktur --> MVC
+  - Handlebars som templating 
 - UV evaluering
+  - Byggeklodser lige som på første 2 semestre
+  - Bedre overblik 
+  - Bedre eller færre tutorials
+  - Nemmere bog i JavaScript
+  - Måske flipped classroom
+  - Store projektarbejde er godt, fremmende for læring
 - Repetition
   - [x] Opret et API, som kan sende og modtage data til og fra en database
   - [x] Opret brugerstyring
