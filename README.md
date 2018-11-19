@@ -65,20 +65,19 @@
 # Eksamensopgave
 
 ## Databasevalg
-* Mongo
-* Mongoose
+* Mongo / Mongoose
 * MySQL
 * Firebase
 
 ## Server
 * Plain NodeJS
 * Express generator
-* Loopback
+* Loopback Ingen der vil bruge det
 
 ## Client
 * Plain HTML/CSS/JavaScript
 * Vue.js - https://vuejs.org/v2/cookbook/using-axios-to-consume-apis.html
-* NativeScript
+* NativeScript Ingen der vil bruge det
 
 ## User management
 * Eget system
