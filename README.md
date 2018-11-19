@@ -60,3 +60,33 @@
 - vue library
 - nemmere måde at vise html js
 - binding
+
+
+# Eksamensopgave
+
+## Databasevalg
+* Mongo
+* Mongoose
+* MySQL
+* Firebase
+
+## Server
+* Plain NodeJS
+* Express generator
+* Loopback
+
+## Client
+* Plain HTML/CSS/JavaScript
+* Vue.js - https://vuejs.org/v2/cookbook/using-axios-to-consume-apis.html
+* NativeScript
+
+## User management
+* Eget system
+* oAuth
+* Passport
+
+
+
+
+
+
